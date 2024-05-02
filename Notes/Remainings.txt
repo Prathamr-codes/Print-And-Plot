@@ -1,0 +1,32 @@
+All Pages:-
+    Customize the navigation bar
+    Meta taggings
+    Footer Customization
+    Links on every Page
+
+Index Page:-
+    Secure the undefined links
+    Add images
+    Discuss the slider
+    Adjust the portfolio
+    Edit counter
+    Discuss about social responsibitiy
+    Add clients
+    Try to integrate the google maps review / Edit reviews
+
+About Us Page:-
+    Message sent sucressfull popup
+    Add images
+
+Services Page:-
+    Add images
+    Counter
+    List the products of their respective services 
+    FAQs
+
+Contact Us Page:-
+    Add images
+    Write script for capcha
+
+Services and Products Folder:-
+    Must check the path specified in header and footer
